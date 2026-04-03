@@ -22,6 +22,7 @@ IP Oracle is a fast and simple Python-based tool that validates an IP address an
 <tr><td>TIMEZONE</td><td>Timezone</td></tr>
 <tr><td>ORG</td><td>Organization (ISP/company)</td></tr>
 <tr><td>ASN</td><td>Autonomous System Number</td></tr>
+<tr><td>More...</td></tr>
 </table>
 <hr>
 ## Install
