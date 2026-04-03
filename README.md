@@ -23,6 +23,19 @@ IP Oracle is a fast and simple Python-based tool that validates an IP address an
 <tr><td>ORG</td><td>Organization (ISP/company)</td></tr>
 <tr><td>ASN</td><td>Autonomous System Number</td></tr>
 </table>
+<hr>
+## Install
+
+Copy and run this command:
+
+```bash
+pip install requests colorama
+```
+```bash
+python Ip_oracle.py
+```
+
 
 # Notes:
-More updates on tools will come in the future.
+“More updates for this tool are coming soon...”
+
